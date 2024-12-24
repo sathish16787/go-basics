@@ -13,7 +13,7 @@ func main() {
 	} else if b > a {
 		fmt.Printf("%d is maximum of two numbers \n", b)
 	} else {
-		fmt.Println("Both the numbers are equal\n")
+		fmt.Println("Both the numbers are equal")
 	}
 
 }
